@@ -1,5 +1,7 @@
-The first file gives the Algorithm for the code.
+# Program to obtain the relation as the ordered pairs given its hasse diagram
 
-The second file is the actual code in C.
+The file Algorithm.txt has the Algorithm used for the code.
 
-The last one is a documentation/report of the projet.
+The file FINALDMS.c contains the implementation in C.
+
+The file dms.docx is the documentation/report of the projet, which has all the necessary details explained in detail.
