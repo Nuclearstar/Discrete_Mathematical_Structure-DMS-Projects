@@ -1,5 +1,7 @@
-The first file gives the Algorithm for the code.
+# Rook's Polynomial
 
-The second file is a documentation/report of the projet.
+The file Algorithm.txt has the Algorithm used for the code.
 
-The last one is the actual code in C.
+The file Rook.c contains the implementation in C.
+
+The file D.docx is the documentation/report of the projet, which has all the necessary information about the project explained in detail.
